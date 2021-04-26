@@ -1,0 +1,8 @@
+#EXTM3U
+Accion
+rtp://@239.0.3.42:8208
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" group-title="Cine", [033]
+MOVISTAR
+Accion HD
+rtp://@239.0.5.113:8208
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" group-title="Cine", [034
